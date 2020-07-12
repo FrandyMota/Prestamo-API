@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prestamo_API", "Prestamo_API\Prestamo_API.csproj", "{392E326C-EBB4-4731-89AA-0890F7C2F015}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrestamoWebAPI", "PrestamoWebAPI\PrestamoWebAPI.csproj", "{4CF46922-D6D9-4E9D-8F0B-531E57814E76}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{392E326C-EBB4-4731-89AA-0890F7C2F015}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{392E326C-EBB4-4731-89AA-0890F7C2F015}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{392E326C-EBB4-4731-89AA-0890F7C2F015}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{392E326C-EBB4-4731-89AA-0890F7C2F015}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CF46922-D6D9-4E9D-8F0B-531E57814E76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CF46922-D6D9-4E9D-8F0B-531E57814E76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CF46922-D6D9-4E9D-8F0B-531E57814E76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CF46922-D6D9-4E9D-8F0B-531E57814E76}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7C307228-FDD8-4617-8BA8-55E4C36EBAD0}
+	EndGlobalSection
+EndGlobal
